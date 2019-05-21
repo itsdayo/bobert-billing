@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DownArrow /> Should render and match the snapshot 1`] = `
+<i
+  class="DownArrow__Arrow-sc-1k5ecwc-0 cJGZyn"
+/>
+`;

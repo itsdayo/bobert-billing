@@ -8,3 +8,7 @@
  * Follow this format:
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
+
+export const GET_USER = 'bobapp/App/GET_USER';
+export const GET_USER_SUCCESS = 'bobapp/App/GET_USER_SUCCESS';
+export const GET_USER_ERROR = 'bobappe/App/GET_USER_ERROR';
